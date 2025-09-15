@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             A Student Electrical and Compueter Engineering with a strong interest in Front-End development. I focus on creating engaging digital experiences and always strive to deliver the best solutions in every project I work on.
+             A Student of Electrical and Computer Engineering with a strong interest in Front-End development. I focus on creating engaging digital experiences and always strive to deliver the best solutions in every project I work on.
             </p>
 
                {/* Quote Section */}
